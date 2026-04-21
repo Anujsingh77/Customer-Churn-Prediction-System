@@ -178,3 +178,9 @@ Then re-run `churn_pipeline.py` to retrain on your data.
 | Dashboard shows no data | Run `churn_pipeline.py` first |
 | Port 8501 in use | `streamlit run dashboard.py --server.port 8502` |
 | Slow training | Reduce `n_estimators` in `churn_pipeline.py` |
+
+Here are some pridiction images:
+![alt text](../business_insights.png)
+![alt text](../eda_overview.png)
+![alt text](../feature_importance.png)
+![alt text](../model_evaluation.png)
