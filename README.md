@@ -104,7 +104,9 @@ Best model is saved to `models/best_model.pkl`.
 streamlit run dashboard.py
 ```
 
-Open your browser at: [http://localhost:8501](https://anujsingh77-customer-churn-prediction-system-dashboard-kjllqy.streamlit.app/)
+Open your browser at: http://localhost:8501
+
+## if you want see the app result: https://anujsingh77-customer-churn-prediction-system-dashboard-kjllqy.streamlit.app/
 
 The dashboard has 4 tabs:
 
