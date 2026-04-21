@@ -179,8 +179,11 @@ Then re-run `churn_pipeline.py` to retrain on your data.
 | Port 8501 in use | `streamlit run dashboard.py --server.port 8502` |
 | Slow training | Reduce `n_estimators` in `churn_pipeline.py` |
 
-Here are some pridiction images:
+## Some Prediction Screenshots:
 ![alt text](../business_insights.png)
 ![alt text](../eda_overview.png)
 ![alt text](../feature_importance.png)
 ![alt text](../model_evaluation.png)
+
+## NOTE:
+If you don't see the screenshots so you need to download the README.md file then opne with vs_code then you see the screenshots.
